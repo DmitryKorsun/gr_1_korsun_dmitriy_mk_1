@@ -501,6 +501,7 @@ img {
 }
 .project {
     background: #F2FCFF;
+    border-top: 2px solid #58ABD7;
 }
 .project-activity-colum {
     display: flex;
